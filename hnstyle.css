@@ -1,0 +1,91 @@
+
+		.upper-part{
+			margin-top:30px;
+			text-align:center;
+			}
+		section{
+			padding-top:15px;
+			border: 1px solid black;
+			width:620px;
+			height:100px;
+			
+			padding-bottom:7px;
+			
+			}
+		.second ul {
+			margin-top:2.4px;
+			word-spacing:23px;
+			font-style:italic;
+			color:grey;
+			font-size:14.5px;
+			padding-right:2px;
+			
+			}
+		.activelink{
+			color:rgb(47, 59, 59);
+			}
+		.unactive-nature a{
+			color:grey;
+			text-decoration: none;
+			}
+		ul {
+  			
+  			list-style: none;
+			}
+		ul li {
+  			display: inline;
+			}
+		.middle-part{	
+			margin-top:70px;
+			}			
+		footer img{
+			width:17px;
+			height:17px;
+			}
+		
+		footer {
+  			margin-top: 2rem;
+  			margin-bottom: 4rem;
+			  			
+			}
+		.footer-firstline{
+			font-size:10px;
+			font-style:italic;
+			color:rgb(47, 59, 59);
+			font-family:"Georgia";
+			font-weight:500;
+			}
+		.footer-secondline li{
+			margin-left:16px;			
+			}
+		section .headin{
+			font-size:60px;
+			font-weight:500;
+			margin-left:40px;
+			margin-top:80px;
+			color:rgb(47, 59, 59);
+			font-family:"Georgia";
+			}
+		.firstline{
+			font-size:30px;
+			margin-right:630px;
+			color:rgb(47, 59, 59);
+			margin-left:7px;
+			font-weight:500;
+			margin-bottom:5px;
+			}
+		table img{
+			object-fit:cover;
+			width:350px;
+			height:350px;
+			}
+		table {
+ 			border-collapse: collapse;
+			}
+		td {
+  			padding-left:6px;
+			}
+		.footer-secondline {
+			margin-right:53px;			
+			}
+		
